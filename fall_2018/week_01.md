@@ -2,20 +2,19 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This week I got started with pylint on the entire project. It is somewhat of a daunting task but we hope to get in done in the next couple weeks.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> Examples: New Bugs to be fixed, Design choices
+This week, we'll continue linting and also work on improving the Docker infrastructure.
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+We are currently not blocked.
 
 ## Notes
 
